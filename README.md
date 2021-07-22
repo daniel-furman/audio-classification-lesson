@@ -3,7 +3,6 @@
 ---
 
 <img src="esc50.gif" alt="ESC-50 clip preview" title="ESC-50 clip preview" align="right" />
-<br>
 <img src="slide-6.png" width = "450" height = "300" align="right" />
 
 
