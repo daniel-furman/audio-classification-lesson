@@ -11,5 +11,3 @@ A 15 minute mini-lesson on audio classification with deep learning, originating 
 * Introduction to audio classification (10 min).
 * Colab notebook demo (5 min). 
   * ESC-50 classification of environmental audio recordings.
-
-<img src="slide-6.png" width = "450" height = "300" align="right" />
